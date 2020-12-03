@@ -1,0 +1,38 @@
+body{
+    background-color: rgb(110, 212, 69);
+}
+.rec
+{
+    margin:30px;
+    padding :30px;
+    
+
+}
+th,td{
+    padding:20px;
+    padding-left: 100px;
+}
+
+.dark-mode
+{
+    background-color: black;
+    color: white;
+}
+
+a:link {
+    color:rgb(84, 42, 122);
+  }
+  
+a:visited {
+    color: rgb(84, 42, 122);
+  }
+  
+ 
+  a:hover {
+    color:yellow;
+  }
+  
+ 
+  a:active {
+    color: blue;
+  }
