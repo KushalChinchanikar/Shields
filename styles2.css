@@ -20,11 +20,12 @@ th,td{
 }
 
 a:link {
-    color:rgb(84, 42, 122);
+  text-decoration: none;
+    color:rgb(142, 74, 202);
   }
   
 a:visited {
-    color: rgb(84, 42, 122);
+    color: rgb(142, 74, 202);
   }
   
  
